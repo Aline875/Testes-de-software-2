@@ -1,29 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\testes-2\\projetoDeTestes\\projetoDeTestes.csproj": {}
+    "C:\\Users\\Aline\\GitHub\\Testes-de-software-2\\projetoDeTestes\\projetoDeTestes.csproj": {}
   },
   "projects": {
-    "D:\\testes-2\\projetoDeTestes\\projetoDeTestes.csproj": {
+    "C:\\Users\\Aline\\GitHub\\Testes-de-software-2\\projetoDeTestes\\projetoDeTestes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\testes-2\\projetoDeTestes\\projetoDeTestes.csproj",
+        "projectUniqueName": "C:\\Users\\Aline\\GitHub\\Testes-de-software-2\\projetoDeTestes\\projetoDeTestes.csproj",
         "projectName": "projetoDeTestes",
-        "projectPath": "D:\\testes-2\\projetoDeTestes\\projetoDeTestes.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\testes-2\\projetoDeTestes\\obj\\",
+        "projectPath": "C:\\Users\\Aline\\GitHub\\Testes-de-software-2\\projetoDeTestes\\projetoDeTestes.csproj",
+        "packagesPath": "C:\\Users\\Remakker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aline\\GitHub\\Testes-de-software-2\\projetoDeTestes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Remakker\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
